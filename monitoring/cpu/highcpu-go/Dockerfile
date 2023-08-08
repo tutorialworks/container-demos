@@ -1,4 +1,4 @@
-FROM docker.io/library/golang:1.19
+FROM docker.io/library/golang:1.21
 
 COPY highcpu.go .
 
